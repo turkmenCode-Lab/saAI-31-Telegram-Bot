@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "WS",
+      "tags": ["websocket", "xray"],
+      "text": "Siziň VPN hyzmatyňyzda WS goldawy bar. WS bilen baglanyşykly konfigurasiýa üçin https://vpn.ws.com/docs sahypasyna girip bilersiňiz."
+    },
+    {
+      "id": 2,
+      "category": "xHTTP",
+      "tags": ["xHTTP", "xray"],
+      "text": "Siziň VPN hyzmatyňyzda xHTTP goldawy bar. xHTTP bilen baglanyşykly konfigurasiýa üçin https://vpn.xhttp.com/docs sahypasyna girip bilersiňiz."
+    },
+    {
+      "id": 3,
+      "category": "SSH",
+      "tags": ["SSH", "darktunnel", "proxy"],
+      "text": "Siziň VPN hyzmatyňyzda SSH goldawy bar. SSH bilen baglanyşykly konfigurasiýa üçin https://vpn.ssh.com/docs sahypasyna girip bilersiňiz."
+    }
+  ]
+}
